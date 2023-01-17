@@ -3,7 +3,7 @@
 Hi 👋 My name is Luccas Freitas!
 ================================
 
-I am a researcher and enthusiast in remote sensing, deep learning and computer vision. :)
+ I am a professional in MLOps, with a background in scientific research in remote sensing with deep learning and image processing.  :)
 
 * 🌍  I'm based in Brazil 🟩🟨🟦
 * ✉️  You can contact me at [luccas.matheus@academico.ufpb.br](mailto:luccas.matheus@academico.ufpb.br)
