@@ -1,4 +1,3 @@
-# readme
 
 Hi 👋 My name is Luccas Freitas!
 ================================
